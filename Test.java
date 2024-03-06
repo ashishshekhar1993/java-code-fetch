@@ -1,5 +1,6 @@
-class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Try programiz.pro");
-    }
+public class Test {
+   public static void main(String[] args) {
+      // Prints "Hello, World" in the terminal window.
+      System.out.println("Hello, World");
+   }
 }
